@@ -1,4 +1,4 @@
-# flutter_app1
+# Jujutsu Kaisen Gallery
 
 A new Flutter application.
 
